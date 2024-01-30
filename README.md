@@ -2,7 +2,7 @@
 My testing in QA
 
 # Who am I 🧑
-I am a beginner programmer who wants to start his adventure as a softrware tester (QA) 😃
+I am a beginner programmer who wants to start his adventure as a software tester (QA) 😃
 
 ## Basics: 
 >Programming languages: Basic, Pascal, Delphi (... I know: very old languages)Javascript and Java (basic).  
