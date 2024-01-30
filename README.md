@@ -1,7 +1,7 @@
 # QA-training :open_file_folder:
 My testing in QA
 
-# Who am I
+# Who am I 🧑
 I am a beginner programmer who wants to start his adventure as a program tester (QA) 😃
 
 ## Basics: 
