@@ -15,21 +15,16 @@ Distributed version control system: GIT.
 
 Testing tools: SCRUM, Jira, TestRail
 
-# Courses
+# Courses and webinars
 GoIT Maraton QA
 
 # Literature read
 Adam Roman, Lucjan Strapp; 'Certyfikowany tester ISTQB Poziom podstawowy'; Helion 2022 ISBN 978-8322-185-4
-# Grupy testerskie
-
 # Blogs read
 * [testerzy.pl](https://testerzy.pl/)
 * [testerka.pl](https://testerka.pl/)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
-
+* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
   
-# Webinary, Meetupy
-
-# Twoja autorska dokumentacja testowa
-
-# Twoje projekty
+# Your own test documentation
+[adamlaborabis.wixsite.com](https://adamlaborabis.wixsite.com/adam-ilnicki/blog)
