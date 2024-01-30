@@ -26,5 +26,5 @@ Adam Roman, Lucjan Strapp; 'Certyfikowany tester ISTQB Poziom podstawowy'; Helio
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
   
-# Your own test documentation
+# My own test documentation
 [adamlaborabis.wixsite.com](https://adamlaborabis.wixsite.com/adam-ilnicki/blog)
