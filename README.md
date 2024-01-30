@@ -2,7 +2,7 @@
 My testing in QA
 
 # Who am I 🧑
-I am a beginner programmer who wants to start his adventure as a program tester (QA) 😃
+I am a beginner programmer who wants to start his adventure as a softrware tester (QA) 😃
 
 ## Basics: 
 >Programming languages: Basic, Pascal, Delphi (... I know: very old languages)Javascript and Java (basic).  
@@ -12,7 +12,7 @@ I am a beginner programmer who wants to start his adventure as a program tester 
 >Testing tools: SCRUM, Jira, TestRail.  
 
 # Courses and webinars
->GoIT Maraton QA
+>GoIT Marathon QA
 
 # Literature read
 >Adam Roman, Lucjan Strapp; 'Certyfikowany tester ISTQB Poziom podstawowy'; Helion 2022 ISBN 978-8322-185-4
