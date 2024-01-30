@@ -5,21 +5,21 @@ My testing in QA
 I am a beginner programmer who wants to start his adventure as a program tester (QA) 😃
 
 ## Basics: 
-Programming languages: Basic, Pascal, Delphi (... I know: very old languages)Javascript and Java (basic)
+>Programming languages: Basic, Pascal, Delphi (... I know: very old languages)Javascript and Java (basic)
 
-Databases: MySQL, PostgreSQL (training on OSX).
+>Databases: MySQL, PostgreSQL (training on OSX).
 
-Operating systems: Windows, OSX (basic).
+>Operating systems: Windows, OSX (basic).
 
-Distributed version control system: GIT.
+>Distributed version control system: GIT.
 
-Testing tools: SCRUM, Jira, TestRail
+>Testing tools: SCRUM, Jira, TestRail
 
 # Courses and webinars
-GoIT Maraton QA
+>GoIT Maraton QA
 
 # Literature read
-Adam Roman, Lucjan Strapp; 'Certyfikowany tester ISTQB Poziom podstawowy'; Helion 2022 ISBN 978-8322-185-4
+>Adam Roman, Lucjan Strapp; 'Certyfikowany tester ISTQB Poziom podstawowy'; Helion 2022 ISBN 978-8322-185-4
 # Blogs read
 * [testerzy.pl](https://testerzy.pl/)
 * [testerka.pl](https://testerka.pl/)
