@@ -12,7 +12,9 @@ I am a beginner programmer who wants to start his adventure as a software tester
 >Testing tools: Postman, Trello, SCRUM, Jira, TestRail.  
 
 # Courses and webinars
->GoIT Marathon QA
+>GoIT Marathon QA  
+>U-demy courses:	
+>>	Zostan QA lub testerem oprogramowania od zera;
 
 # Literature read
 >Adam Roman, Lucjan Strapp; 'Certyfikowany tester ISTQB Poziom podstawowy'; Helion 2022 ISBN 978-8322-185-4  
