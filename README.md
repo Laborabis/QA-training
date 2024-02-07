@@ -6,10 +6,10 @@ I am a beginner programmer who wants to start his adventure as a software tester
 
 ## Basics: 
 >Programming languages: Basic, Pascal, Delphi (... I know: very old languages)Javascript and Java (basic).  
->Databases: MySQL, PostgreSQL (training on OSX).  
+>Databases: SQL DML (basic), MySQL, PostgreSQL (training on OSX).  
 >Operating systems: Windows, OSX (basic).  
 >Distributed version control system: GIT.  
->Testing tools: SCRUM, Jira, TestRail.  
+>Testing tools: Postman, Trello, SCRUM, Jira, TestRail.  
 
 # Courses and webinars
 >GoIT Marathon QA
