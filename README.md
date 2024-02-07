@@ -16,6 +16,7 @@ I am a beginner programmer who wants to start his adventure as a software tester
 
 # Literature read
 >Adam Roman, Lucjan Strapp; 'Certyfikowany tester ISTQB Poziom podstawowy'; Helion 2022 ISBN 978-8322-185-4
+>ABC testowania oprogramowania; Waldemar Szafraniec, Dorota Gabor; ©2020 Waldemar Szafraniec; Krakow
 # Blogs read
 * [testerzy.pl](https://testerzy.pl/)
 * [testerka.pl](https://testerka.pl/)
