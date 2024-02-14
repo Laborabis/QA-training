@@ -14,7 +14,9 @@ I am a beginner programmer who wants to start his adventure as a software tester
 # Courses and webinars
 >GoIT Marathon QA  
 >U-demy courses:	
->>	Zostan QA lub testerem oprogramowania od zera;
+>>	Zostan QA lub testerem oprogramowania od zera;  
+>>  Praktyczny kurs testowania oprogramowania;
+
 
 # Literature read
 >Adam Roman, Lucjan Strapp; 'Certyfikowany tester ISTQB Poziom podstawowy'; Helion 2022 ISBN 978-8322-185-4  
