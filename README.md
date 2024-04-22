@@ -29,3 +29,9 @@ I am a beginner programmer who wants to start his adventure as a software tester
   
 # My own test documentation :bug:
 [adamlaborabis.wixsite.com](https://adamlaborabis.wixsite.com/adam-ilnicki/blog)
+
+[linedin](https://www.linkedin.com/in/adam-ilnicki-4b66a8238/)
+
+[salesforce](https://www.salesforce.com/trailblazer/laborabis)
+
+[QA leatning](https://adamlaborabis.wixsite.com/adam-ilnicki/blog)
