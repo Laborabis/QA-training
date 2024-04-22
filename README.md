@@ -34,4 +34,4 @@ I am a beginner programmer who wants to start his adventure as a software tester
 
 [salesforce](https://www.salesforce.com/trailblazer/laborabis)
 
-[QA leatning](https://adamlaborabis.wixsite.com/adam-ilnicki/blog)
+[QA learning](https://adamlaborabis.wixsite.com/adam-ilnicki/blog)
